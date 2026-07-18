@@ -7,7 +7,7 @@ A collection of end-to-end data analytics projects covering web scraping, explor
 **Md. Tawfiqul Islam Tamal**
 Data Analytics | Python | Machine Learning
 
-[GitHub](https://github.com/Tawfiqul-Tamal) · [LinkedIn](#)
+[GitHub](https://github.com/Tawfiqul-Tamal) · [LinkedIn](www.linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a)
 
 ## Projects
 
@@ -48,3 +48,4 @@ Each project folder is self-contained with its own README, source code, data, an
 Feel free to connect or reach out for collaboration, feedback, or questions about any of these projects.
 
 - GitHub: [@Tawfiqul-Tamal](https://github.com/Tawfiqul-Tamal)
+- LinkedIn: [www.linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a]
