@@ -48,4 +48,4 @@ Each project folder is self-contained with its own README, source code, data, an
 Feel free to connect or reach out for collaboration, feedback, or questions about any of these projects.
 
 - GitHub: [@Tawfiqul-Tamal](https://github.com/Tawfiqul-Tamal)
-- LinkedIn: [@Md. Tawfiqul Islam Tamal](www.linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a)
+- LinkedIn: [@Md.Tawfiqul-Islam-Tamal](www.linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a)
