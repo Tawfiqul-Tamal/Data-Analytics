@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analytics
 
 A collection of end-to-end data analytics projects covering web scraping, exploratory data analysis (EDA), data visualization, and machine learning / NLP applications — built to demonstrate practical, real-world data analysis skills using Python.
 
